@@ -1,0 +1,31 @@
+TYPE : int
+IDENTIFIER : employee
+LEFT_PAREN : (
+RIGHT_PAREN : )
+LEFT_CURLY : {
+TYPE : char
+IDENTIFIER : name
+LEFT_SQUARE : [
+NUM: 50
+RIGHT_SQUARE : ]
+SEMI : ;
+TYPE : char
+IDENTIFIER : designation
+LEFT_SQUARE : [
+NUM: 50
+RIGHT_SQUARE : ]
+SEMI : ;
+TYPE : char
+IDENTIFIER : dept
+LEFT_SQUARE : [
+NUM: 50
+RIGHT_SQUARE : ]
+SEMI : ;
+TYPE : int
+IDENTIFIER : age
+SEMI : ;
+TYPE : float
+IDENTIFIER : salary
+SEMI : ;
+RIGHT_CURLY : }
+Unidentifier symbol $ found

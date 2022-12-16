@@ -1,0 +1,13 @@
+Beginning of function
+Name of function: employee
+
+Total number of arguments: 0
+
+at index ( const-50 ) local variable: name
+at index ( const-50 ) local variable: designation
+at index ( const-50 ) local variable: dept
+local variable: age
+local variable: salary
+
+
+End of function
